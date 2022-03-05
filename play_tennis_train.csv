@@ -1,0 +1,7 @@
+day,outlook,temp,humidity,wind,play
+D9,Rain,Cool,High,Strong,Yes
+D10,Overcast,Mild,High,Weak,Yes
+D11,Rain,Hot,High,Strong,Yes
+D12,Sunny,Cool,Normal,Weak,No
+D13,Overcast,Mild,Normal,Weak,No
+D14,Rain,Cool,High,Strong,Yes
